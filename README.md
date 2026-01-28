@@ -16,7 +16,6 @@ If you’re looking for OpenCTI API reference material, **GraphQL schema details
 
 Example workflows:
 - Find names quickly: search for terms like `query`, `mutation`, `subscription`, `stix`, `report`, `indicator`, `identity`, `label`, etc.
-- Diff versions: re-run the same capture process for another OpenCTI version and compare inventories to see what changed.
 
 ## Why this exists
 
