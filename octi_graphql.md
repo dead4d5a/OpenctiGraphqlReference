@@ -1,4 +1,4 @@
-# Octi GraphQL Documentation Skeleton (Snapshot-based, plan only)
+# Octi GraphQL Documentation (Snapshot-based, plan only)
 
 ## 0) Front matter
 
