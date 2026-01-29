@@ -2,7 +2,7 @@
 
 This repo provides a machine-readable inventory of the OpenCTI (Open Cyber Threat Intelligence) API surface area** for OpenCTI 6.9.10, intended as a practical companion for people building integrations, doing schema discovery, or documenting OpenCTI API behavior.
 
-If you’re looking for OpenCTI API reference material, **GraphQL schema details, or a searchable snapshot of “what’s available” in a specific OpenCTI release, this is meant to be a useful starting point.
+If you’re looking for OpenCTI API reference material, GraphQL schema details, or a searchable snapshot of “what’s available” in a specific OpenCTI release, this is meant to be a useful starting point.
 
 ## What’s included
 
