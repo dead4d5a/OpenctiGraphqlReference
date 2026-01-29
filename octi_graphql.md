@@ -6202,10 +6202,6 @@ Checklist:
 
 # Appendix B) Core GraphQL + schema-layer files (non-module)
 
-I re-checked the zip contents: `opt/opencti/src/graphql/` contains **exactly 9 files**, and `opt/opencti/src/schema/` contains **exactly 26 files**. Your Appendix B list is accurate — the only change I recommend is adding the **snapshot identity + canonical core SDL** (both are non-module and referenced throughout the doc set).
-
----
-
 ### B.0 Snapshot identity + canonical core SDL
 
 * `MANIFEST.txt`
